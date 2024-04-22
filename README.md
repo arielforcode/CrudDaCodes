@@ -1,19 +1,22 @@
 # CrudDaCodes
-Este es un crud de prueba tecnica para poder registrar materias de una escuela en sql server usando Razor Pages y sql server. 
+Este es un CRUD de prueba técnica para poder registrar materias de una escuela en SQL Server usando Razor Pages y SQL Server.
 
-## Herramientas que se usaron para la aplicacion
-
-- Sql Server
+## Herramientas que se usaron para la aplicación:
+- SQL Server
 - Visual Studio 2022
-
-## Lenguaje y Frameworks
-
-- EntityFramework
+## Lenguajes y Frameworks:
+- Entity Framework
 - Razor Pages
 - C#
-- Net Core 8.0
+- .NET Core 8.0
 
-## Nota
- Crear la base de datos en sql server y crear un loggin en sql server con los usuarios de la cadena de coneccion dentro del proyecto para levantar el codigo y la apgina web.
+## Nota:
+Crear la base de datos en SQL Server y crear un login en SQL Server con los usuarios de la cadena de conexión dentro del proyecto para levantar el código y la página web.
 
-Happy Coding :D
+```json
+"ConnectionStrings": {
+  "DefaultConnection": "Server=(local);Database=PruebaDaCodes;User Id=DaCodes;Password=12345;trustservercertificate=true;"
+}
+```
+
+¡Happy Coding! :D

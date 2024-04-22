@@ -1,0 +1,80 @@
+﻿@page
+@model PruebaTecnicaDaCodes.Pages.CrudSchool.IndexModel
+
+@{
+    ViewData["Title"] = "Lista De Materias";
+}
+
+<h1>Registra Materias Para La Escuela</h1>
+
+<p>
+    <a class="btn btn-primary" asp-page="Create">Crear Nueva Materia</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @("Materia")
+            </th>
+            <th>
+                @("Profesor")
+            </th>
+            <th>
+                @("Numero Estudiantes")
+            </th>
+            <th>
+                @("Horario")
+            </th>
+            <th>
+                @("Numero Aprobados")
+            </th>
+            <th>
+                @("Numero Reprobados")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.School != null && Model.School.Any())
+        {
+            @foreach (var item in Model.School)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Subject)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Teacher)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NumberOfStudents)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Schedule)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ApprovedQuantities)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FailedAmounts)
+                    </td>
+                    <td>
+                        <a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@item.Id">Editar</a> |
+                        <a class="btn btn-warning" asp-page="./Details" asp-route-id="@item.Id">Detalles De La Materia</a> |
+                        <a class="btn btn-danger"  asp-page="./Delete" asp-route-id="@item.Id">Eliminar Materia</a>
+                    </td>
+                </tr>
+            }
+            }
+        else
+            {
+                <tr>
+                    <td colspan="7" class="text-center">
+                        No se encontro ningun registro de las materias en la base de datos.
+                    </td>
+                </tr>
+            }
+
+
+    </tbody>
+</table>

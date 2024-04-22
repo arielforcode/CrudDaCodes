@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PruebaTecnicaDaCodes
+build_property.RootNamespace = PruebaTecnicaDaCodes
+build_property.ProjectDir = C:\Users\lenovo\source\repos\PruebaTecnicaDaCodes\PruebaTecnicaDaCodes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\lenovo\source\repos\PruebaTecnicaDaCodes\PruebaTecnicaDaCodes
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/CrudSchool/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J1ZFNjaG9vbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/CrudSchool/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J1ZFNjaG9vbFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/CrudSchool/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J1ZFNjaG9vbFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/CrudSchool/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J1ZFNjaG9vbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/CrudSchool/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3J1ZFNjaG9vbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/source/repos/PruebaTecnicaDaCodes/PruebaTecnicaDaCodes/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0podskji99
